@@ -1,0 +1,6 @@
+mysql-connector-python
+SpeechRecognition
+pygame
+requests
+cohere
+pyaudio
