@@ -1,7 +1,12 @@
 # Calmora - Your Compassionate Conversational AI
 
 <p align="center">
-  <img src="logo.jpg" alt="Calmora Logo" width="300" height="300" style="border-radius: 50%;">
+  <img src="logo.jpg" alt="Calmora Logo" width="300" height="300">
+  <style>
+    img {
+      border-radius: 50%;
+    }
+  </style>
 </p>
 
 ## Overview
